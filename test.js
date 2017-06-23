@@ -29,6 +29,7 @@ var BASIC_TESTS = [
   ['wildlife', 'wildlife'],
   ['Staff', 'Staff'],
   ['STAFF', 'STAFF'],
+  ['carnivorous', 'carnivorous'],
   // Latin.
   ['veniam', 'veniam'],
   // Pluralization.
@@ -575,6 +576,7 @@ var BASIC_TESTS = [
   ['radiotelephony', 'radiotelephonies'],
   ['company', 'companies'],
   ['ceremony', 'ceremonies'],
+  ['carnivore', 'carnivores'],
   // Prototype inheritance.
   ['constructor', 'constructors'],
   // Non-standard case.
